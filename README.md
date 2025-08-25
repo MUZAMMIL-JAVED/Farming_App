@@ -1,6 +1,6 @@
-# 👨‍🌾 Agri India - One stop application for Indian Farmers
+# 👨‍🌾 Agri Pakistan - One stop application for Pakistan Farmers
 
-✒️ This is an Android Application designed for our Indian farmers. 
+✒️ This is an Android Application designed for farmers. 
 
 ✒️ The technology has become a part and parcel of everyone's life and it is also helping us to make our daily tasks easy.
 We identified that in the Agriculture sector, the farmers are still lacking the best technology use cases. 
@@ -13,9 +13,9 @@ The application is also designed in such a way that it will be easy to use.
 
 
 ## ✨ Features:
-- Government Yojna Awareness
+- Government Awareness
 - E-commerce Platform
-- Daily APMC Price Updates
+- Daily Price Updates
 - Community Network (Social Media)
 - Reading articles based on categories
 - Weather Forecasting
@@ -26,7 +26,5 @@ The application is also designed in such a way that it will be easy to use.
 | --- | --- | --- | --- | --- |
 
 
-## 🤩 Designs:
-<img src="https://github.com/hetsuthar028/Farming-App/blob/master/Agri India.png" />
 
 ## 😀 If you liked the app, Please give it a ⭐ and fork the repository. 🤚🏻
